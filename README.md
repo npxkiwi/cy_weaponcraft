@@ -11,3 +11,7 @@ Der kan du tilføje items\
 For at få dem ind i menuen\
 Config.lua\Weapons \
 Der kan du tilføje items til menuen
+
+### Kontakt
+Kontakt mig gerne over discord hvis der nogle problemer.
+Min discord ._.notepad
